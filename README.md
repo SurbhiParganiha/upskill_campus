@@ -6,19 +6,19 @@
 ### Links to Dataset :
 
 
-Github link - https://github.com/Vishesh-tamrakar/UpSkill-Campus/blob/main/MiningProcess_Flotation_Plant_Database.csv
+Github link - https://github.com/Vishesh-tamrakar/upskill_campus/blob/main/MiningProcess_Flotation_Plant_Database.csv
 
 Google Drive link - https://drive.google.com/file/d/1mZl1j2m_YiLFCSvduw0MpsBPkgJy396y/view
 
 ### Links to Code :
 
-Github link - https://github.com/SurbhiParganiha/UpSkill-Campus/blob/main/QualityPredictionInAMiningProcess_SurbhiParganiha_USC_UCT.ipynb
+Github link - https://github.com/SurbhiParganiha/upskill_campus/blob/main/QualityPredictionInAMiningProcess_SurbhiParganiha_USC_UCT.ipynb
 
 Google Colab link - https://colab.research.google.com/drive/1FhkhYdsoZJ7wx_vjYZVCwfvGqt_0oyGy
 
 ### Links to Report :
 
-Github link - https://github.com/SurbhiParganiha/UpSkill-Campus/blob/main/QualityPredictionInAMiningProcess_SurbhiParganiha_USC_UCT.docx
+Github link - https://github.com/SurbhiParganiha/upskill_campus/blob/main/QualityPredictionInAMiningProcess_SurbhiParganiha_USC_UCT.docx
 
 Google Docs link - https://docs.google.com/document/d/1zG5TxcSXK4JvDEYPo2E2_SaVTuvHdyaD
 
